@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dummy_names">
+        <item>Adam Cleres</item>
+        <item>David Hughes</item>
+        <item>James Bond</item>
+        <item>Lyman Lepine</item>
+        <item>Jim Ikerd</item>
+        <item>Jesse Valles</item>
+        <item>Hope Piller</item>
+        <item>Dexter Pfeil</item>
+        <item>Mason Dearth</item>
+        <item>Sonny Sum</item>
+        <item>Gigi Kuntz</item>
+        <item>Anglea Weese</item>
+        <item>Valentin Rhymer</item>
+        <item>Ivonne Carmen</item>
+        <item>Christi Cloyd</item>
+        <item>Kathryne Alper</item>
+        <item>Sherilyn Leonard</item>
+        <item>Shonda Wunsch</item>
+        <item>Nannie Guillemette</item>
+        <item>Shera Mowbray</item>
+        <item>Tina Kintz</item>
+        <item>Hermila Silguero</item>
+        <item>Jule Welsh</item>
+        <item>Chantell Quesenberry</item>
+        <item>Doug Moller</item>
+        <item>Olinda Heatherly</item>
+        <item>Lynelle Sullens</item>
+        <item>Kayleigh Small</item>
+        <item>Treena Derbyshire</item>
+        <item>Marleen Gallimore</item>
+        <item>Bernadette Watkins</item>
+        <item>David Knicely</item>
+        <item>Dyan Hiler</item>
+    </string-array>
+
+
+
+</resources>

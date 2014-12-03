@@ -3,4 +3,4 @@ android-L
 
 Android L sample implementations
 
-http://i.imgur.com/L8aJWhr.gif
+![alt tag](http://i.imgur.com/L8aJWhr.gif)
